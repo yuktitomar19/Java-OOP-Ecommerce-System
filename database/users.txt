@@ -1,0 +1,8 @@
+swapnil,123,admin
+yukti,123,user
+amrita,1234,user
+john,123,user
+ram,1234,user
+sam,123,user
+yasha,123,admin
+surya,123,admin

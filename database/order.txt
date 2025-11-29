@@ -1,0 +1,9 @@
+yasha,1,1
+yasha,4,2
+yasha,1,3
+yasha,4,1
+swapnil,4,2
+swapnil,1,3
+john,1,1
+swapnil,2,1
+yasha,3,1

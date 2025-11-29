@@ -1,0 +1,4 @@
+1,Television,25000.0
+2,Refrigerator,15000.0
+4,AirConditioner,35000.0
+3,Mobile,150000.0
